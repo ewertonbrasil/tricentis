@@ -1,0 +1,17 @@
+Desafio accenture!
+
+
+1 tela: automatizada 100%
+2 tela: checkbox Hobbies sendo selecionado manual
+3 tela: checkbox Optional Products sendo selecionada manual
+4 tela: Select Option "silver" sendo selecionada manual
+5 tela: automatizada 100%
+6 tela: verificação automatizada 100% 
+
+todos steps do Cenários passando com as obss acima;
+Foi introduzido sleeps durante os cenários para o usuário verificar o preenchimento dos campos;
+
+desenvolvido via visual studio code;
+terminal -> CMDER
+
+Para utilização do terminal foi rodado: cd +(caminhodapasta) e depois cucumber -t @temp
